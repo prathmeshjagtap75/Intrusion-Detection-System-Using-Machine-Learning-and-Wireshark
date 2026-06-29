@@ -194,7 +194,7 @@ For improved results, future datasets should include:
 * Python Programming
 
 ---
-# 📄 Requirements
+#  Requirements
 
 ```text
 pandas
