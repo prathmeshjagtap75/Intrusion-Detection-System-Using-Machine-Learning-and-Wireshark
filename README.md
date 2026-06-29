@@ -1,6 +1,6 @@
 #  Intrusion Detection System Using Machine Learning and Wireshark
 
-> A Machine Learning-based Intrusion Detection System (IDS) that captures real network traffic using **Wireshark**, extracts packet features, and classifies network activity as **Normal** or **Suspicious** using a **Random Forest** classifier. Developed on **Kali Linux** using Python and Scikit-learn.
+A Machine Learning-based Intrusion Detection System (IDS) that captures real network traffic using **Wireshark**, extracts packet features, and classifies network activity as **Normal** or **Suspicious** using a **Random Forest** classifier. Developed on **Kali Linux** using Python and Scikit-learn.
 
 ---
 
