@@ -57,7 +57,7 @@ This project demonstrates a complete IDS workflow—from capturing packets with 
 Clone the repository
 
 ```bash
-git clone https://github.com/your-username/Intrusion-Detection-System-Using-Machine-Learning-and-Wireshark.git
+git clone https://github.com/prathmeshjagtap75/Intrusion-Detection-System-Using-Machine-Learning-and-Wireshark
 ```
 
 Navigate to the project directory
